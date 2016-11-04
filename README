@@ -1,3 +1,6 @@
 Handling and Upload files using multer package.
 * npm install
 * npm start
+
+* default route     : http://localhost:9000
+* upload file route : http://localhost:9000/api/register
