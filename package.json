@@ -1,0 +1,23 @@
+{
+  "name": "node-file-handling",
+  "version": "1.0.0",
+  "description": "handling and upload file using multer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wuriyanto <wuriyanto48@yahoo.co.id>",
+  "license": "ISC",
+  "keywords": [
+    "files",
+    "uploading files",
+    "multer",
+    "nodejs uploading files"
+  ],
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "multer": "^1.1.0"
+  }
+}
